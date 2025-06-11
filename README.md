@@ -82,3 +82,6 @@ export default class RadioGroups extends LightningElement {
 | `value`   | The currently selected value(not displayed until selected)                                  |
 | `type`    | `"radio"` (default) for circular inputs, `"button"` for buttons |
 
+
+
+
