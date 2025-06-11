@@ -72,3 +72,13 @@ export default class RadioGroups extends LightningElement {
         ];
     }
 }
+
+
+| Property  | Description                                                     |
+| --------- | --------------------------------------------------------------- |
+| `name`    | A unique name for the group                                     |
+| `label`   | The label displayed above the group                             |
+| `options` | Array of `{ label, value }` objects                             |
+| `value`   | The currently selected value                                    |
+| `type`    | `"radio"` (default) for circular inputs, `"button"` for buttons |
+
